@@ -8,7 +8,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX
+📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) |
 
 ---
 
