@@ -6,6 +6,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) |
