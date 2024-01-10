@@ -19,7 +19,7 @@ I'm Gunjan, a Data Science master's student passionate about transforming data i
 
 ### Exploring Projects 🔍:
 
-🚗**WooAuto: List Your Car!**: A dynamic platform I developed using Django, allowing users to explore and list automobiles. I optimized its performance and responsiveness, ensuring a seamless experience for users. Dive into the [code](https://github.com/gjoshi22/automobiles) or check out the [live site](https://automobileswoo-f4fbbfd878bf.herokuapp.com/).
+🚗**WooAuto: List Your Car!**: A dynamic platform I developed using Django, allowing users to explore and list automobiles. I optimized its performance and responsiveness, ensuring a seamless experience for users. Dive into the [code](https://github.com/gjoshi22/automobiles).
 
 🌾**HarvestHero: ML Insights into Crop Vitality**: An initiative where I employed machine learning to predict crop survival with 84% accuracy, providing farmers with valuable insights for better decision-making. Here's the detailed [analysis](https://github.com/gjoshi22/HarvestHero-Machine-Learning-Insights-into-Crop-Vitality/blob/main/Crop_plantation_output_prediction.ipynb).
 
