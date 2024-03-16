@@ -8,6 +8,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
+![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=powerbi)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Excel](https://img.shields.io/badge/-Excel-black?style=flat-square&logo=microsoft-excel)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+[R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
 📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) |
 
@@ -15,7 +26,7 @@
 
 ### Hey there! 👋
 
-I'm Gunjan, a Data Science master's student passionate about transforming data into impactful solutions. My background in Computer Science and ongoing studies in Data Science have armed me with the skills to tackle multifaceted challenges in the tech sphere.
+I'm Gunjan, a Data Science master's student at TAMU passionate about transforming data into impactful solutions. My background in Computer Science and ongoing studies in Data Science have armed me with the skills to tackle multifaceted challenges in the tech sphere.
 
 ### Exploring Projects 🔍:
 
