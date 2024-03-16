@@ -31,7 +31,7 @@ I'm Gunjan, a Data Science master's student at TAMU passionate about transformin
 
 ### Exploring Projects 🔍:
 
-🧠**Pnuemonia Detect**: Detect Pneumonia Early!: Developed a deep learning model using Keras capable of detecting signs of pneumonia in pediatric chest X-Ray images. Leveraged the PneumoniaMNIST dataset and achieved a test AUC of 0.9205. The project aims to aid early diagnosis, potentially improving patient outcomes. Explore the [code] (https://github.com/gjoshi22/Medical_MNIST).
+🧠**Pnuemonia Detect**: Detect Pneumonia Early!: Developed a deep learning model using Keras capable of detecting signs of pneumonia in pediatric chest X-Ray images. Leveraged the PneumoniaMNIST dataset and achieved a test AUC of 0.9205. The project aims to aid early diagnosis, potentially improving patient outcomes. Explore the [code](https://github.com/gjoshi22/Medical_MNIST).
 
 🚗**WooAuto: List Your Car!**: A dynamic platform I developed using Django, allowing users to explore and list automobiles. I optimized its performance and responsiveness, ensuring a seamless experience for users. Dive into the [code](https://github.com/gjoshi22/automobiles).
 
