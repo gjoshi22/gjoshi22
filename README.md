@@ -41,5 +41,5 @@ I'm Gunjan, a Data Science master's student at TAMU passionate about transformin
 
 When I'm not diving into datasets or coding up a storm, you might find me playing the guitar, playing soccer,  or experimenting with a new recipe in the kitchen 🍳.
 
-**Let's connect**! Whether you want to discuss a potential opportunity, share insights, or simply chat about the latest tech trends - I'm all ears! Here is my [LinkedIn](https://www.linkedin.com/in/gjoshi22/) 
+**Let's connect**! Whether you want to discuss a potential opportunity, share insights, or simply chat about the latest tech trends - I'm all ears! Here is my [LinkedIn](https://www.linkedin.com/in/gjoshi22/).
 
