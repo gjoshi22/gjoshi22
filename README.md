@@ -17,7 +17,6 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-[R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
 📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) | 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/gunjan.joshi/vizzes)
