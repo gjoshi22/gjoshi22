@@ -20,7 +20,8 @@
 [R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
-📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) |
+📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) | 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/gunjan.joshi/vizzes)
+
 
 ---
 
@@ -29,6 +30,8 @@
 I'm Gunjan, a Data Science master's student at TAMU passionate about transforming data into impactful solutions. My background in Computer Science and ongoing studies in Data Science have armed me with the skills to tackle multifaceted challenges in the tech sphere.
 
 ### Exploring Projects 🔍:
+
+🧠**Pnuemonia Detect**: Detect Pneumonia Early!: Developed a deep learning model using Keras capable of detecting signs of pneumonia in pediatric chest X-Ray images. Leveraged the PneumoniaMNIST dataset and achieved a test AUC of 0.9205. The project aims to aid early diagnosis, potentially improving patient outcomes. Explore the [code] (https://github.com/gjoshi22/Medical_MNIST).
 
 🚗**WooAuto: List Your Car!**: A dynamic platform I developed using Django, allowing users to explore and list automobiles. I optimized its performance and responsiveness, ensuring a seamless experience for users. Dive into the [code](https://github.com/gjoshi22/automobiles).
 
