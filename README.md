@@ -19,7 +19,8 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 
-📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) | 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/gunjan.joshi/vizzes)
+📧 [gjoshi@tamu.edu](mailto:gjoshi@tamu.edu) | 🌐 [LinkedIn](https://www.linkedin.com/in/gjoshi22/) | 🌍 College Station, TX | 🌐 [Personal Website](https://gjoshi22.github.io) | 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/gunjan.joshi/vizzes| 
+[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQ1YjllODUtMDhlMC00MmEzLThlYTItODMyMGFkM2Y0NTYxIiwidCI6IjY4ZjM4MWUzLTQ2ZGEtNDdiOS1iYTU3LTZmMzIyYjhmMGRhMSIsImMiOjN9&pageName=ReportSection)
 
 
 ---
